@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "88545924489",
+    "firebase_url": "https://semac-app-667b7.firebaseio.com",
+    "project_id": "semac-app-667b7",
+    "storage_bucket": "semac-app-667b7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:88545924489:android:7b92492d41ae050f",
+        "android_client_info": {
+          "package_name": "com.example.semac"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "88545924489-q442n37prpv9sl73gnv9cin6limtns4i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.semac",
+            "certificate_hash": "c4a2bf6fa6d95ca72509f8cd7194dd3114c343c7"
+          }
+        },
+        {
+          "client_id": "88545924489-7sc5eb3s1krsije5c794j9t426q5r6hf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTHSZjB_pGANsI6kn4QVuQyzf5PlFjhfA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "88545924489-7sc5eb3s1krsije5c794j9t426q5r6hf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
